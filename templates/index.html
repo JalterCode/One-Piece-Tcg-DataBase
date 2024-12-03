@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One Piece TCG Database</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>One Piece Trading Card Game Database</h1>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Card ID</th>
+                <th>Name</th>
+                <th>Colour</th>
+                <th>Rarity</th>
+                <th>Cost</th>
+                <th>Power</th>
+                <th>Type</th>
+                <th>Counter</th>
+                <th>Set ID</th>
+                <th>Attribute 1</th>
+                <th>Attribute 2</th>
+                <th>Attribute 3</th>
+                <th>Attack Attribute</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for card in cards %}
+            <tr>
+                <td>{{ card[0] }}</td>
+                <td>{{ card[1] }}</td>
+                <td>{{ card[2] }}</td>
+                <td>{{ card[3] }}</td>
+                <td>{{ card[4] }}</td>
+                <td>{{ card[5] }}</td>
+                <td>{{ card[6] }}</td>
+                <td>{{ card[7] }}</td>
+                <td>{{ card[8] }}</td>
+                <td>{{ card[9] }}</td>
+                <td>{{ card[10] }}</td>
+                <td>{{ card[11] }}</td>
+                <td>{{ card[12] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
