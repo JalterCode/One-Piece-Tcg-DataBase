@@ -7,6 +7,27 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">One Piece TCG</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link {% if active_tab == 'cards' %}active{% endif %}" href="/">Card Database</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if active_tab == 'decks' %}active{% endif %}" href="/decks">Deck Builder</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/view_decks">View Decks</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
     <div class="container mt-4">
         <h1>One Piece TCG Cards</h1>
 
@@ -22,7 +43,36 @@
                         <option value="Yellow" {% if selected_color == "Yellow" %}selected{% endif %}>Yellow</option>
                         <option value="Purple" {% if selected_color == "Purple" %}selected{% endif %}>Purple</option>
                         <option value="Black" {% if selected_color == "Black" %}selected{% endif %}>Black</option>
-
+                    </select>
+                </div>
+                  <div class="col-md-4">
+                    <label for="rarity">Filter by Rarity:</label>
+                    <select name="rarity" id="rarity" class="form-select">
+                        <option value="" {% if not selected_rarity %}selected{% endif %}>All Rarities</option>
+                        <option value="C" {% if selected_rarity == "C" %}selected{% endif %}>C</option>
+                        <option value="UC" {% if selected_rarity == "UC" %}selected{% endif %}>UC</option>
+                        <option value="R" {% if selected_rarity == "R" %}selected{% endif %}>R</option>
+                        <option value="SR" {% if selected_rarity == "SR" %}selected{% endif %}>SR</option>
+                        <option value="SEC" {% if selected_rarity == "SEC" %}selected{% endif %}>SEC</option>
+                    </select>
+                </div>
+                 <div class="col-md-4">
+                    <label for="counter">Filter by Counter:</label>
+                    <select name="counter" id="counter" class="form-select">
+                        <option value="" {% if not selected_counter %}selected{% endif %}>All Counters</option>
+                        <option value="null" {% if selected_counter == "null" %}selected{% endif %}>No Counter</option>
+                        <option value="1000" {% if selected_counter == "1000" %}selected{% endif %}>1000</option>
+                        <option value="2000" {% if selected_counter == "2000" %}selected{% endif %}>2000</option>
+                    </select>
+                </div>
+                 <div class="col-md-4">
+                    <label for="card_type">Filter by Card Type:</label>
+                    <select name="card_type" id="card_type" class="form-select">
+                        <option value="" {% if not selected_card_type %}selected{% endif %}>All Card Types</option>
+                        <option value="Character" {% if selected_card_type == "Character" %}selected{% endif %}>Character</option>
+                        <option value="Event" {% if selected_card_type == "Event" %}selected{% endif %}>Event</option>
+                        <option value="Stage" {% if selected_card_type == "Stage" %}selected{% endif %}>Stage</option>
+                        <option value="Leader" {% if selected_card_type == "Leader" %}selected{% endif %}>Leader</option>
                     </select>
                 </div>
                 <div class="col-md-4">
@@ -45,13 +95,23 @@
                 <div class="col-md-4">
                     <label for="set">Filter by Set:</label>
                     <select name="set" id="set" class="form-select">
-                        <option value="" {% if not selected_cost %}selected{% endif %}>All Sets</option>
-                        <option value="OP01" {% if selected_cost == "0" %}selected{% endif %}>OP01</option>
-                        <option value="OP02" {% if selected_cost == "1" %}selected{% endif %}>OP02</option>
-                        <option value="OP03" {% if selected_cost == "2" %}selected{% endif %}>OP03</option>
-                        <option value="OP04" {% if selected_cost == "3" %}selected{% endif %}>OP04</option>
-                        <option value="OP05" {% if selected_cost == "4" %}selected{% endif %}>OP05</option>
-                        <option value="OP06" {% if selected_cost == "5" %}selected{% endif %}>OP06</option>
+                        <option value="" {% if not selected_set %}selected{% endif %}>All Sets</option>
+                        <option value="OP01" {% if selected_set == "OP01" %}selected{% endif %}>OP01</option>
+                        <option value="OP02" {% if selected_set == "OP02" %}selected{% endif %}>OP02</option>
+                        <option value="OP03" {% if selected_set == "OP03" %}selected{% endif %}>OP03</option>
+                        <option value="OP04" {% if selected_set == "OP04" %}selected{% endif %}>OP04</option>
+                        <option value="OP05" {% if selected_set == "OP05" %}selected{% endif %}>OP05</option>
+                        <option value="OP06" {% if selected_set == "OP06" %}selected{% endif %}>OP06</option>
+                        <option value="OP07" {% if selected_set == "OP07" %}selected{% endif %}>OP07</option>
+                        <option value="OP08" {% if selected_set == "OP08" %}selected{% endif %}>OP08</option>
+                    </select>
+                </div>
+                 <div class="col-md-4">
+                    <label for="year">Filter by Year:</label>
+                    <select name="year" id="year" class="form-select">
+                        <option value="" {% if not selected_year %}selected{% endif %}>All Years</option>
+                        <option value="1" {% if selected_year == "1" %}selected{% endif %}>1: 2022-2023</option>
+                        <option value="2" {% if selected_year == "2" %}selected{% endif %}>2: 2023-2024</option>
                     </select>
                 </div>
                 <div class="col-md-4 d-flex align-items-end">
@@ -88,6 +148,13 @@
                 {% endfor %}
             </tbody>
         </table>
+    </div>
+    </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
     </div>
 </body>
 </html>

@@ -1,0 +1,1840 @@
+[
+    {
+        "card_id": "OP08-001",
+        "set_id": "OP08",
+        "name": "Tony Tony.Chopper",
+        "color": "Red/Green",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Animal",
+            "Drum Kingdom",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-002",
+        "set_id": "OP08",
+        "name": "Marco",
+        "color": "Red/Blue",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-003",
+        "set_id": "OP08",
+        "name": "Twenty Doctors",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 2,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-004",
+        "set_id": "OP08",
+        "name": "Kuromarimo",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-005",
+        "set_id": "OP08",
+        "name": "Chess",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP08-006",
+        "set_id": "OP08",
+        "name": "Chessmarimo",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Strike/Ranged"
+    },
+    {
+        "card_id": "OP08-007",
+        "set_id": "OP08",
+        "name": "Tony Tony.Chopper",
+        "color": "Red",
+        "rarity": "SR",
+        "cost": 3,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Animal",
+            "Drum Kingdom",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-008",
+        "set_id": "OP08",
+        "name": "Dalton",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-009",
+        "set_id": "OP08",
+        "name": "Maria Onion Bear",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 3,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-010",
+        "set_id": "OP08",
+        "name": "Hiking Bear",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Animal",
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-011",
+        "set_id": "OP08",
+        "name": "Musshuru",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 6,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-012",
+        "set_id": "OP08",
+        "name": "Lapins",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal",
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-013",
+        "set_id": "OP08",
+        "name": "Robson",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal",
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-014",
+        "set_id": "OP08",
+        "name": "Wapol",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 6,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-015",
+        "set_id": "OP08",
+        "name": "Dr.Kureha",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-016",
+        "set_id": "OP08",
+        "name": "Dr.Hiriluk",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 3,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-017",
+        "set_id": "OP08",
+        "name": "I'd Never Shoot You!!!!",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": 4000,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-018",
+        "set_id": "OP08",
+        "name": "Cloven Rose",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Animal",
+            "Drum Kingdom",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-019",
+        "set_id": "OP08",
+        "name": "Munch-Munch Mutation",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 3,
+        "power": null,
+        "card_type": "Event",
+        "counter": 3000,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-020",
+        "set_id": "OP08",
+        "name": "Drum Kingdom",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Stage",
+        "counter": null,
+        "attributes": [
+            "Drum Kingdom"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-021",
+        "set_id": "OP08",
+        "name": "Carrot",
+        "color": "Green",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-022",
+        "set_id": "OP08",
+        "name": "Inuarashi",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks",
+            "The Akazaya Nine"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-023",
+        "set_id": "OP08",
+        "name": "Carrot",
+        "color": "Green",
+        "rarity": "SR",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-024",
+        "set_id": "OP08",
+        "name": "Concelot",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-025",
+        "set_id": "OP08",
+        "name": "Shishilian",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-026",
+        "set_id": "OP08",
+        "name": "Giovanni",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-027",
+        "set_id": "OP08",
+        "name": "Tristan",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 1,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-028",
+        "set_id": "OP08",
+        "name": "Nekomamushi",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks",
+            "The Akazaya Nine"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-029",
+        "set_id": "OP08",
+        "name": "Pekoms",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 4,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Minks",
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-030",
+        "set_id": "OP08",
+        "name": "Pedro",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-031",
+        "set_id": "OP08",
+        "name": "Miyagi",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 3,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-032",
+        "set_id": "OP08",
+        "name": "Milky",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 2,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-033",
+        "set_id": "OP08",
+        "name": "Roddy",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-034",
+        "set_id": "OP08",
+        "name": "Wanda",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-035",
+        "set_id": "OP08",
+        "name": "BB",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 2,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-036",
+        "set_id": "OP08",
+        "name": "Electrical Luna",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 3,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-037",
+        "set_id": "OP08",
+        "name": "Garchu",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Minks"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-038",
+        "set_id": "OP08",
+        "name": "We Would Never Sell a Comrade to an Enemy!!!",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Minks",
+            "The Akazaya Nine"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-039",
+        "set_id": "OP08",
+        "name": "Zou",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 3,
+        "power": null,
+        "card_type": "Stage",
+        "counter": null,
+        "attributes": [
+            "Animal"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-040",
+        "set_id": "OP08",
+        "name": "Atmos",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-041",
+        "set_id": "OP08",
+        "name": "Aphelandra",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Amazon Lily"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-042",
+        "set_id": "OP08",
+        "name": "Edward Weevil",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "The Seven Warlords of the Sea"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-043",
+        "set_id": "OP08",
+        "name": "Edward.Newgate",
+        "color": "Blue",
+        "rarity": "SR",
+        "cost": 10,
+        "power": 12000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "The Four Emperors",
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-044",
+        "set_id": "OP08",
+        "name": "Kingdew",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-045",
+        "set_id": "OP08",
+        "name": "Thatch",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-046",
+        "set_id": "OP08",
+        "name": "Shakuyaku",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Amazon Lily"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-047",
+        "set_id": "OP08",
+        "name": "Jozu",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 6,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-048",
+        "set_id": "OP08",
+        "name": "Sweetpea",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 4,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Amazon Lily"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-049",
+        "set_id": "OP08",
+        "name": "Speed Jil",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-050",
+        "set_id": "OP08",
+        "name": "Namule",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 3,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Fish-Man",
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-051",
+        "set_id": "OP08",
+        "name": "Buckin",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Former Rocks Pirates"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-052",
+        "set_id": "OP08",
+        "name": "Portgas.D.Ace",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-053",
+        "set_id": "OP08",
+        "name": "Thank You...for Loving Me!!",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-054",
+        "set_id": "OP08",
+        "name": "You Can't Take Our King This Early in the Game.",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 3,
+        "power": null,
+        "card_type": "Event",
+        "counter": 3000,
+        "attributes": [
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-055",
+        "set_id": "OP08",
+        "name": "Phoenix Brand",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 4,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Former Whitebeard Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-056",
+        "set_id": "OP08",
+        "name": "Moby Dick",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 2,
+        "power": null,
+        "card_type": "Stage",
+        "counter": null,
+        "attributes": [
+            "Whitebeard Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-057",
+        "set_id": "OP08",
+        "name": "King",
+        "color": "Purple/Black",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-058",
+        "set_id": "OP08",
+        "name": "Charlotte Pudding",
+        "color": "Purple/Yellow",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-059",
+        "set_id": "OP08",
+        "name": "Alber",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Lunarian",
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-060",
+        "set_id": "OP08",
+        "name": "King",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 7,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-061",
+        "set_id": "OP08",
+        "name": "Charlotte Oven",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-062",
+        "set_id": "OP08",
+        "name": "Charlotte Katakuri",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-063",
+        "set_id": "OP08",
+        "name": "Charlotte Katakuri",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 6,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-064",
+        "set_id": "OP08",
+        "name": "Charlotte Cracker",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-065",
+        "set_id": "OP08",
+        "name": "Charlotte Smoothie",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 7,
+        "power": 9000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-066",
+        "set_id": "OP08",
+        "name": "Charlotte Brulee",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-067",
+        "set_id": "OP08",
+        "name": "Charlotte Pudding",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-068",
+        "set_id": "OP08",
+        "name": "Charlotte Perospero",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 3,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-069",
+        "set_id": "OP08",
+        "name": "Charlotte Linlin",
+        "color": "Purple",
+        "rarity": "SR",
+        "cost": 9,
+        "power": 9000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Former Rocks Pirates",
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-070",
+        "set_id": "OP08",
+        "name": "Baron Tamago",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-071",
+        "set_id": "OP08",
+        "name": "Count Niwatori",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 6,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-072",
+        "set_id": "OP08",
+        "name": "Biscuit Warrior",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 5,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-073",
+        "set_id": "OP08",
+        "name": "Viscount Hiyoko",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-074",
+        "set_id": "OP08",
+        "name": "Black Maria",
+        "color": "Purple",
+        "rarity": "SR",
+        "cost": 3,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-075",
+        "set_id": "OP08",
+        "name": "Candy Maiden",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-076",
+        "set_id": "OP08",
+        "name": "It's to Die For...",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 3,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "The Four Emperors",
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-077",
+        "set_id": "OP08",
+        "name": "Conquest of the Sea",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 6,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "The Four Emperors",
+            "Animal Kingdom Pirates",
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-078",
+        "set_id": "OP08",
+        "name": "Ulti",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 4,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-079",
+        "set_id": "OP08",
+        "name": "Kaido",
+        "color": "Black",
+        "rarity": "SR",
+        "cost": 9,
+        "power": 9000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Former Rocks Pirates",
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-080",
+        "set_id": "OP08",
+        "name": "Queen",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-081",
+        "set_id": "OP08",
+        "name": "Guernica",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "CP0"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-082",
+        "set_id": "OP08",
+        "name": "Sasaki",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 1,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-083",
+        "set_id": "OP08",
+        "name": "Sheepshead",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates",
+            "SMILE"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-084",
+        "set_id": "OP08",
+        "name": "Jack",
+        "color": "Black",
+        "rarity": "SR",
+        "cost": 7,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-085",
+        "set_id": "OP08",
+        "name": "Jinbe",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Fish-Man",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-086",
+        "set_id": "OP08",
+        "name": "Ginrummy",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates",
+            "SMILE"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-087",
+        "set_id": "OP08",
+        "name": "Scratchmen Apoo",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates",
+            "On-Air Pirates"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP08-088",
+        "set_id": "OP08",
+        "name": "Duval",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "The Flying Fish Riders"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP08-089",
+        "set_id": "OP08",
+        "name": "Basil Hawkins",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 7,
+        "power": 9000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates",
+            "Hawkins Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-090",
+        "set_id": "OP08",
+        "name": "Hamlet",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates",
+            "SMILE"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-091",
+        "set_id": "OP08",
+        "name": "Who's.Who",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 5,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Animal Kingdom Pirates",
+            "Former CP9"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-092",
+        "set_id": "OP08",
+        "name": "Page One",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 5,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-093",
+        "set_id": "OP08",
+        "name": "X.Drake",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 4,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Navy",
+            "Drake Pirates",
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-094",
+        "set_id": "OP08",
+        "name": "Imperial Flame",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-095",
+        "set_id": "OP08",
+        "name": "Iron Body Fang Flash",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Animal Kingdom Pirates",
+            "Former CP9"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-096",
+        "set_id": "OP08",
+        "name": "People's Dreams Don't Ever End!!",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": 5000,
+        "attributes": [
+            "Blackbeard Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-097",
+        "set_id": "OP08",
+        "name": "Heliceratops",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 3,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-098",
+        "set_id": "OP08",
+        "name": "Kalgara",
+        "color": "Yellow",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Jaya",
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-099",
+        "set_id": "OP08",
+        "name": "Kalgara",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 6,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Jaya",
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-100",
+        "set_id": "OP08",
+        "name": "South Bird",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal",
+            "Jaya",
+            "Sky Island"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-101",
+        "set_id": "OP08",
+        "name": "Charlotte Angel",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-102",
+        "set_id": "OP08",
+        "name": "Charlotte Opera",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 6,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-103",
+        "set_id": "OP08",
+        "name": "Charlotte Custard",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-104",
+        "set_id": "OP08",
+        "name": "Charlotte Poire",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP08-105",
+        "set_id": "OP08",
+        "name": "Jewelry Bonney",
+        "color": "Yellow",
+        "rarity": "SR",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Egghead",
+            "Bonney Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-106",
+        "set_id": "OP08",
+        "name": "Nami",
+        "color": "Yellow",
+        "rarity": "SR",
+        "cost": 5,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Egghead",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-107",
+        "set_id": "OP08",
+        "name": "Nitro",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates",
+            "Homies"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-108",
+        "set_id": "OP08",
+        "name": "Mont Blanc Cricket",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 4,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Jaya",
+            "Monkey Mountain Alliance"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP08-109",
+        "set_id": "OP08",
+        "name": "Mont Blanc Noland",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Jaya",
+            "Botanist"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-110",
+        "set_id": "OP08",
+        "name": "Wyper",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP08-111",
+        "set_id": "OP08",
+        "name": "S-Shark",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Egghead",
+            "Seraphim"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-112",
+        "set_id": "OP08",
+        "name": "S-Snake",
+        "color": "Yellow",
+        "rarity": "SR",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Egghead",
+            "Seraphim"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-113",
+        "set_id": "OP08",
+        "name": "S-Bear",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Egghead",
+            "Seraphim"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP08-114",
+        "set_id": "OP08",
+        "name": "S-Hawk",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Egghead",
+            "Seraphim"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-115",
+        "set_id": "OP08",
+        "name": "The Earth Will Not Lose!",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": 3000,
+        "attributes": [
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-116",
+        "set_id": "OP08",
+        "name": "Burn Bazooka",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": 4000,
+        "attributes": [
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-117",
+        "set_id": "OP08",
+        "name": "Burn Blade",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 5,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP08-118",
+        "set_id": "OP08",
+        "name": "Silvers Rayleigh",
+        "color": "Red",
+        "rarity": "SEC",
+        "cost": 8,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Former Roger Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP08-119",
+        "set_id": "OP08",
+        "name": "Kaido & Linlin",
+        "color": "Purple",
+        "rarity": "SEC",
+        "cost": 10,
+        "power": 12000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "The Four Emperors",
+            "Animal Kingdom Pirates",
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Strike/Special"
+    }
+]

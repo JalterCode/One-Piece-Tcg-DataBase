@@ -1,0 +1,1864 @@
+[
+    {
+        "card_id": "OP06-001",
+        "set_id": "OP06",
+        "name": "Uta",
+        "color": "Red/Purple",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "FILM"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-002",
+        "set_id": "OP06",
+        "name": "Inazuma",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Revolutionary Army"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-003",
+        "set_id": "OP06",
+        "name": "Emporio.Ivankov",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Revolutionary Army"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-004",
+        "set_id": "OP06",
+        "name": "Baron Omatsuri",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Omatsuri Island"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP06-005",
+        "set_id": "OP06",
+        "name": "Gasparde",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 6,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Former Navy",
+            "Gasparde Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-006",
+        "set_id": "OP06",
+        "name": "Saga",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "FILM",
+            "Asuka Island"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-007",
+        "set_id": "OP06",
+        "name": "Shanks",
+        "color": "Red",
+        "rarity": "SR",
+        "cost": 10,
+        "power": 12000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "FILM",
+            "The Four Emperors",
+            "Red-Haired Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-008",
+        "set_id": "OP06",
+        "name": "Schneider",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 3,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Mugiwara Chase"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-009",
+        "set_id": "OP06",
+        "name": "Shuraiya",
+        "color": "Red",
+        "rarity": "SR",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Shipbuilding Town"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-010",
+        "set_id": "OP06",
+        "name": "Douglas Bullet",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 6,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "The Pirates Fest"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-011",
+        "set_id": "OP06",
+        "name": "Tot Musica",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-012",
+        "set_id": "OP06",
+        "name": "Bear.King",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Trump Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-013",
+        "set_id": "OP06",
+        "name": "Monkey.D.Luffy",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-014",
+        "set_id": "OP06",
+        "name": "Ratchet",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 1,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Mecha Island"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-015",
+        "set_id": "OP06",
+        "name": "Lily Carnation",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 4,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Omatsuri Island"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-016",
+        "set_id": "OP06",
+        "name": "Raise Max",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "FILM",
+            "Revolutionary Army"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-017",
+        "set_id": "OP06",
+        "name": "Meteor-Strike of Love",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": 3000,
+        "attributes": [
+            "FILM",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-018",
+        "set_id": "OP06",
+        "name": "Gum-Gum King Kong Gatling",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "FILM",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-019",
+        "set_id": "OP06",
+        "name": "Blue Dragon Seal Water Stream",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 3,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "FILM",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-020",
+        "set_id": "OP06",
+        "name": "Hody Jones",
+        "color": "Green",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Fish-Man",
+            "New Fish-Man Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-021",
+        "set_id": "OP06",
+        "name": "Perona",
+        "color": "Green/Black",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-022",
+        "set_id": "OP06",
+        "name": "Yamato",
+        "color": "Green/Yellow",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Land of Wano"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-023",
+        "set_id": "OP06",
+        "name": "Arlong",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 4,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Fish-Man",
+            "East Blue",
+            "Arlong Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-024",
+        "set_id": "OP06",
+        "name": "Ikaros Much",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Fish-Man",
+            "New Fish-Man Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-025",
+        "set_id": "OP06",
+        "name": "Camie",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Merfolk"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-026",
+        "set_id": "OP06",
+        "name": "Koushirou",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 3,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Frost Moon Village"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-027",
+        "set_id": "OP06",
+        "name": "Gyro",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Gyro Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-028",
+        "set_id": "OP06",
+        "name": "Zeo",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Fish-Man",
+            "New Fish-Man Pirates"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-029",
+        "set_id": "OP06",
+        "name": "Daruma",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Fish-Man",
+            "New Fish-Man Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-030",
+        "set_id": "OP06",
+        "name": "Dosun",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Fish-Man",
+            "New Fish-Man Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-031",
+        "set_id": "OP06",
+        "name": "Hatchan",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Fish-Man",
+            "Former Arlong Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-032",
+        "set_id": "OP06",
+        "name": "Hammond",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 2,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Fish-Man",
+            "New Fish-Man Pirates"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP06-033",
+        "set_id": "OP06",
+        "name": "Vander Decken IX",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 2,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Fish-Man",
+            "Flying Pirates"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP06-034",
+        "set_id": "OP06",
+        "name": "Hyouzou",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Fish-Man"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-035",
+        "set_id": "OP06",
+        "name": "Hody Jones",
+        "color": "Green",
+        "rarity": "SR",
+        "cost": 7,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Fish-Man",
+            "New Fish-Man Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-036",
+        "set_id": "OP06",
+        "name": "Ryuma",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 4,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Land of Wano",
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-037",
+        "set_id": "OP06",
+        "name": "Wadatsumi",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 6,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Fish-Man",
+            "Flying Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-038",
+        "set_id": "OP06",
+        "name": "The Billion-fold World Trichiliocosm",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": 2000,
+        "attributes": [
+            "Dressrosa",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-039",
+        "set_id": "OP06",
+        "name": "You Ain't Even Worth Killing Time!!",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 4,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-040",
+        "set_id": "OP06",
+        "name": "Shark Arrows",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Fish-Man",
+            "New Fish-Man Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-041",
+        "set_id": "OP06",
+        "name": "The Ark Noah",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 6,
+        "power": null,
+        "card_type": "Stage",
+        "counter": null,
+        "attributes": [
+            "Fish-Man Island"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-042",
+        "set_id": "OP06",
+        "name": "Vinsmoke Reiju",
+        "color": "Blue/Purple",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-043",
+        "set_id": "OP06",
+        "name": "Aramaki",
+        "color": "Blue",
+        "rarity": "SR",
+        "cost": 8,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-044",
+        "set_id": "OP06",
+        "name": "Gion",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-045",
+        "set_id": "OP06",
+        "name": "Kuzan",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-046",
+        "set_id": "OP06",
+        "name": "Sakazuki",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-047",
+        "set_id": "OP06",
+        "name": "Charlotte Pudding",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 4,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-048",
+        "set_id": "OP06",
+        "name": "Zeff",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "East Blue"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-049",
+        "set_id": "OP06",
+        "name": "Sengoku",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 5,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-050",
+        "set_id": "OP06",
+        "name": "Tashigi",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-051",
+        "set_id": "OP06",
+        "name": "Tsuru",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 5,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-052",
+        "set_id": "OP06",
+        "name": "Tokikake",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-053",
+        "set_id": "OP06",
+        "name": "Jaguar.D.Saul",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Giant",
+            "Navy"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-054",
+        "set_id": "OP06",
+        "name": "Borsalino",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 2,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-055",
+        "set_id": "OP06",
+        "name": "Monkey.D.Garp",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 5,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-056",
+        "set_id": "OP06",
+        "name": "Ama no Murakumo Sword",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-057",
+        "set_id": "OP06",
+        "name": "But I Will Never Doubt a Woman's Tears!!!!",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Dressrosa",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-058",
+        "set_id": "OP06",
+        "name": "Gravity Blade Raging Tiger",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 7,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-059",
+        "set_id": "OP06",
+        "name": "White Snake",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": 1000,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-060",
+        "set_id": "OP06",
+        "name": "Vinsmoke Ichiji",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 4,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-061",
+        "set_id": "OP06",
+        "name": "Vinsmoke Ichiji",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 7,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-062",
+        "set_id": "OP06",
+        "name": "Vinsmoke Judge",
+        "color": "Purple",
+        "rarity": "SR",
+        "cost": 8,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-063",
+        "set_id": "OP06",
+        "name": "Vinsmoke Sora",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 1,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "The Vinsmoke Family",
+            "Kingdom of GERMA"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-064",
+        "set_id": "OP06",
+        "name": "Vinsmoke Niji",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-065",
+        "set_id": "OP06",
+        "name": "Vinsmoke Niji",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-066",
+        "set_id": "OP06",
+        "name": "Vinsmoke Yonji",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 2,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-067",
+        "set_id": "OP06",
+        "name": "Vinsmoke Yonji",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-068",
+        "set_id": "OP06",
+        "name": "Vinsmoke Reiju",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 2,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-069",
+        "set_id": "OP06",
+        "name": "Vinsmoke Reiju",
+        "color": "Purple",
+        "rarity": "SR",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-070",
+        "set_id": "OP06",
+        "name": "Eldoraggo",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 5,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Eldoraggo Crew"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-071",
+        "set_id": "OP06",
+        "name": "Gild Tesoro",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Grantesoro"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-072",
+        "set_id": "OP06",
+        "name": "Cosette",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 1,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Kingdom of GERMA"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-073",
+        "set_id": "OP06",
+        "name": "Shiki",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 2,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Golden Lion Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-074",
+        "set_id": "OP06",
+        "name": "Zephyr (Navy)",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 7,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "FILM",
+            "Navy"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-075",
+        "set_id": "OP06",
+        "name": "Count Battler",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "FILM",
+            "Crown Island"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-076",
+        "set_id": "OP06",
+        "name": "Hitokiri Kamazo",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Supernovas",
+            "Kid Pirates",
+            "SMILE"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-077",
+        "set_id": "OP06",
+        "name": "Black Bug",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 4,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-078",
+        "set_id": "OP06",
+        "name": "GERMA 66",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "The Vinsmoke Family",
+            "GERMA 66"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-079",
+        "set_id": "OP06",
+        "name": "Kingdom of GERMA",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Stage",
+        "counter": null,
+        "attributes": [
+            "Kingdom of GERMA"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-080",
+        "set_id": "OP06",
+        "name": "Gecko Moria",
+        "color": "Black",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "The Seven Warlords of the Sea",
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-081",
+        "set_id": "OP06",
+        "name": "Absalom",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP06-082",
+        "set_id": "OP06",
+        "name": "Inuppe",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-083",
+        "set_id": "OP06",
+        "name": "Oars",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Giant",
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-084",
+        "set_id": "OP06",
+        "name": "Jigoro of the Wind",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-085",
+        "set_id": "OP06",
+        "name": "Kumacy",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-086",
+        "set_id": "OP06",
+        "name": "Gecko Moria",
+        "color": "Black",
+        "rarity": "SR",
+        "cost": 8,
+        "power": 9000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "The Seven Warlords of the Sea",
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-087",
+        "set_id": "OP06",
+        "name": "Cerberus",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 2,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP06-088",
+        "set_id": "OP06",
+        "name": "Sai",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Dressrosa",
+            "Happosui Army"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-089",
+        "set_id": "OP06",
+        "name": "Taralan",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-090",
+        "set_id": "OP06",
+        "name": "Dr. Hogback",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-091",
+        "set_id": "OP06",
+        "name": "Victoria Cindry",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-092",
+        "set_id": "OP06",
+        "name": "Brook",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 6,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Former Rumbar Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-093",
+        "set_id": "OP06",
+        "name": "Perona",
+        "color": "Black",
+        "rarity": "SR",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-094",
+        "set_id": "OP06",
+        "name": "Lola",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 4,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-095",
+        "set_id": "OP06",
+        "name": "Shadows Asgard",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": 1000,
+        "attributes": [
+            "The Seven Warlords of the Sea",
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-096",
+        "set_id": "OP06",
+        "name": "...Nothing...at All!!!",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 3,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-097",
+        "set_id": "OP06",
+        "name": "Negative Hollow",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-098",
+        "set_id": "OP06",
+        "name": "Thriller Bark",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Stage",
+        "counter": null,
+        "attributes": [
+            "Thriller Bark Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-099",
+        "set_id": "OP06",
+        "name": "Aisa",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 1,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Sky Island"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-100",
+        "set_id": "OP06",
+        "name": "Inuarashi",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks",
+            "Land of Wano",
+            "The Akazaya Nine"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-101",
+        "set_id": "OP06",
+        "name": "O-Nami",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP06-102",
+        "set_id": "OP06",
+        "name": "Kamakiri",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-103",
+        "set_id": "OP06",
+        "name": "Kawamatsu",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 3,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Fish-Man",
+            "Land of Wano",
+            "The Akazaya Nine"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-104",
+        "set_id": "OP06",
+        "name": "Kikunojo",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 4,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Land of Wano",
+            "The Akazaya Nine"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-105",
+        "set_id": "OP06",
+        "name": "Genbo",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 3,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP06-106",
+        "set_id": "OP06",
+        "name": "Kouzuki Hiyori",
+        "color": "Yellow",
+        "rarity": "SR",
+        "cost": 2,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Land of Wano",
+            "Kouzuki Clan"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-107",
+        "set_id": "OP06",
+        "name": "Kouzuki Momonosuke",
+        "color": "Yellow",
+        "rarity": "SR",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Land of Wano",
+            "Kouzuki Clan"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-108",
+        "set_id": "OP06",
+        "name": "Tenguyama Hitetsu",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Land of Wano",
+            "Kouzuki Clan"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP06-109",
+        "set_id": "OP06",
+        "name": "Denjiro",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Land of Wano",
+            "The Akazaya Nine"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-110",
+        "set_id": "OP06",
+        "name": "Nekomamushi",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Minks",
+            "Land of Wano",
+            "The Akazaya Nine"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-111",
+        "set_id": "OP06",
+        "name": "Braham",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP06-112",
+        "set_id": "OP06",
+        "name": "Raizo",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Land of Wano",
+            "The Akazaya Nine"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-113",
+        "set_id": "OP06",
+        "name": "Raki",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 1,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP06-114",
+        "set_id": "OP06",
+        "name": "Wyper",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP06-115",
+        "set_id": "OP06",
+        "name": "You're the One Who Should Disappear.",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 0,
+        "power": null,
+        "card_type": "Event",
+        "counter": 3000,
+        "attributes": [
+            "Sky Island"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-116",
+        "set_id": "OP06",
+        "name": "Reject",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 4,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Sky Island",
+            "Shandian Warrior"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-117",
+        "set_id": "OP06",
+        "name": "The Ark Maxim",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Stage",
+        "counter": null,
+        "attributes": [
+            "Sky Island"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP06-118",
+        "set_id": "OP06",
+        "name": "Roronoa Zoro",
+        "color": "Green",
+        "rarity": "SEC",
+        "cost": 9,
+        "power": 9000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP06-119",
+        "set_id": "OP06",
+        "name": "Sanji",
+        "color": "Blue",
+        "rarity": "SEC",
+        "cost": 9,
+        "power": 9000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Strike"
+    }
+]

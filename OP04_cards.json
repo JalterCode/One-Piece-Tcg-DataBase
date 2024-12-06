@@ -1,0 +1,1866 @@
+[
+    {
+        "card_id": "OP04-001",
+        "set_id": "OP04",
+        "name": "Nefeltari Vivi",
+        "color": "Red/Blue",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Alabasta"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-002",
+        "set_id": "OP04",
+        "name": "Igaram",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Alabasta"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP04-003",
+        "set_id": "OP04",
+        "name": "Usopp",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-004",
+        "set_id": "OP04",
+        "name": "Karoo",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal",
+            "Alabasta"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-005",
+        "set_id": "OP04",
+        "name": "Kung Fu Jugon",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 1,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal",
+            "Alabasta"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-006",
+        "set_id": "OP04",
+        "name": "Koza",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Alabasta"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-007",
+        "set_id": "OP04",
+        "name": "Sanji",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 1,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-008",
+        "set_id": "OP04",
+        "name": "Chaka",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 3,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Alabasta"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-009",
+        "set_id": "OP04",
+        "name": "Super Spot-Billed Duck Troops",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Animal",
+            "Alabasta"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-010",
+        "set_id": "OP04",
+        "name": "Tony Tony.Chopper",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal",
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-011",
+        "set_id": "OP04",
+        "name": "Nami",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-012",
+        "set_id": "OP04",
+        "name": "Nefeltari Cobra",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 2,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Alabasta"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-013",
+        "set_id": "OP04",
+        "name": "Pell",
+        "color": "Red",
+        "rarity": "SR",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Alabasta"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-014",
+        "set_id": "OP04",
+        "name": "Monkey.D.Luffy",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 8,
+        "power": 9000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-015",
+        "set_id": "OP04",
+        "name": "Roronoa Zoro",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-016",
+        "set_id": "OP04",
+        "name": "Bad Manners Kick Course",
+        "color": "Red",
+        "rarity": "R",
+        "cost": 0,
+        "power": null,
+        "card_type": "Event",
+        "counter": 3000,
+        "attributes": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-017",
+        "set_id": "OP04",
+        "name": "Happiness Punch",
+        "color": "Red",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-018",
+        "set_id": "OP04",
+        "name": "Enchanting Vertigo Dance",
+        "color": "Red",
+        "rarity": "UC",
+        "cost": 3,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Alabasta"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-019",
+        "set_id": "OP04",
+        "name": "Donquixote Doflamingo",
+        "color": "Green/Purple",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "The Seven Warlords of the Sea",
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-020",
+        "set_id": "OP04",
+        "name": "Issho",
+        "color": "Green/Black",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Navy"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-021",
+        "set_id": "OP04",
+        "name": "Viola",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-022",
+        "set_id": "OP04",
+        "name": "Eric",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "East Blue"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-023",
+        "set_id": "OP04",
+        "name": "Kuro",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 6,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "East Blue",
+            "Black Cat Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-024",
+        "set_id": "OP04",
+        "name": "Sugar",
+        "color": "Green",
+        "rarity": "SR",
+        "cost": 2,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-025",
+        "set_id": "OP04",
+        "name": "Giolla",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 4,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-026",
+        "set_id": "OP04",
+        "name": "Senor Pink",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 3,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-027",
+        "set_id": "OP04",
+        "name": "Daddy Masterson",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "East Blue",
+            "Former Navy"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP04-028",
+        "set_id": "OP04",
+        "name": "Diamante",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-029",
+        "set_id": "OP04",
+        "name": "Dellinger",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-030",
+        "set_id": "OP04",
+        "name": "Trebol",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 6,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-031",
+        "set_id": "OP04",
+        "name": "Donquixote Doflamingo",
+        "color": "Green",
+        "rarity": "SR",
+        "cost": 10,
+        "power": 10000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "The Seven Warlords of the Sea",
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-032",
+        "set_id": "OP04",
+        "name": "Baby 5",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 1,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-033",
+        "set_id": "OP04",
+        "name": "Machvise",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-034",
+        "set_id": "OP04",
+        "name": "Lao.G",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-035",
+        "set_id": "OP04",
+        "name": "Spiderweb",
+        "color": "Green",
+        "rarity": "R",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": 4000,
+        "attributes": [
+            "The Seven Warlords of the Sea",
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-036",
+        "set_id": "OP04",
+        "name": "Donquixote Family",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-037",
+        "set_id": "OP04",
+        "name": "Flapping Thread",
+        "color": "Green",
+        "rarity": "UC",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": 2000,
+        "attributes": [
+            "The Seven Warlords of the Sea",
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-038",
+        "set_id": "OP04",
+        "name": "The Weak Do Not Have the Right to Choose How They Die!!!",
+        "color": "Green",
+        "rarity": "C",
+        "cost": 5,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "The Seven Warlords of the Sea",
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-039",
+        "set_id": "OP04",
+        "name": "Rebecca",
+        "color": "Blue/Black",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Dressrosa"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-040",
+        "set_id": "OP04",
+        "name": "Queen",
+        "color": "Blue/Yellow",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP04-041",
+        "set_id": "OP04",
+        "name": "Apis",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 1,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "East Blue"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-042",
+        "set_id": "OP04",
+        "name": "Ipponmatsu",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 2,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "East Blue"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-043",
+        "set_id": "OP04",
+        "name": "Ulti",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-044",
+        "set_id": "OP04",
+        "name": "Kaido",
+        "color": "Blue",
+        "rarity": "SR",
+        "cost": 10,
+        "power": 12000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "The Four Emperors",
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-045",
+        "set_id": "OP04",
+        "name": "King",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 7,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-046",
+        "set_id": "OP04",
+        "name": "Queen",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-047",
+        "set_id": "OP04",
+        "name": "Ice Oni",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 8,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Plague",
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-048",
+        "set_id": "OP04",
+        "name": "Sasaki",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-049",
+        "set_id": "OP04",
+        "name": "Jack",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-050",
+        "set_id": "OP04",
+        "name": "Hanger",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 2,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "East Blue"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-051",
+        "set_id": "OP04",
+        "name": "Who's.Who",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-052",
+        "set_id": "OP04",
+        "name": "Black Maria",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-053",
+        "set_id": "OP04",
+        "name": "Page One",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 4,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-054",
+        "set_id": "OP04",
+        "name": "Rokki",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 5,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Giant",
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-055",
+        "set_id": "OP04",
+        "name": "Plague Rounds",
+        "color": "Blue",
+        "rarity": "C",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-056",
+        "set_id": "OP04",
+        "name": "Gum-Gum Red Roc",
+        "color": "Blue",
+        "rarity": "R",
+        "cost": 6,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-057",
+        "set_id": "OP04",
+        "name": "Dragon Twister Demolition Breath",
+        "color": "Blue",
+        "rarity": "UC",
+        "cost": 2,
+        "power": null,
+        "card_type": "Event",
+        "counter": 4000,
+        "attributes": [
+            "The Four Emperors",
+            "Animal Kingdom Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-058",
+        "set_id": "OP04",
+        "name": "Crocodile",
+        "color": "Purple/Yellow",
+        "rarity": "L",
+        "cost": null,
+        "power": 5000,
+        "card_type": "Leader",
+        "counter": null,
+        "attributes": [
+            "The Seven Warlords of the Sea",
+            "Baroque Works"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-059",
+        "set_id": "OP04",
+        "name": "Iceburg",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 1,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Water Seven",
+            "Galley-La Company"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-060",
+        "set_id": "OP04",
+        "name": "Crocodile",
+        "color": "Purple",
+        "rarity": "SR",
+        "cost": 8,
+        "power": 9000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "The Seven Warlords of the Sea",
+            "Baroque Works"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-061",
+        "set_id": "OP04",
+        "name": "Tom",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Fish-Man",
+            "Water Seven"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-062",
+        "set_id": "OP04",
+        "name": "Bananagator",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 5,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-063",
+        "set_id": "OP04",
+        "name": "Franky",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 1,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Water Seven",
+            "The Franky Family"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-064",
+        "set_id": "OP04",
+        "name": "Ms. All Sunday",
+        "color": "Purple",
+        "rarity": "SR",
+        "cost": 5,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Baroque Works"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-065",
+        "set_id": "OP04",
+        "name": "Miss.Goldenweek(Marianne)",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Baroque Works"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-066",
+        "set_id": "OP04",
+        "name": "Miss.Valentine(Mikita)",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 2,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Baroque Works"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-067",
+        "set_id": "OP04",
+        "name": "Miss.MerryChristmas(Drophy)",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 4,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Baroque Works"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-068",
+        "set_id": "OP04",
+        "name": "Yokozuna",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Animal",
+            "Water Seven"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-069",
+        "set_id": "OP04",
+        "name": "Mr.2.Bon.Kurei(Bentham)",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Baroque Works"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-070",
+        "set_id": "OP04",
+        "name": "Mr.3(Galdino)",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Baroque Works"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-071",
+        "set_id": "OP04",
+        "name": "Mr.4(Babe)",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Baroque Works"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-072",
+        "set_id": "OP04",
+        "name": "Mr.5(Gem)",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 7,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Baroque Works"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-073",
+        "set_id": "OP04",
+        "name": "Mr.13 & Ms.Friday",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 3,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Animal",
+            "Baroque Works"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-074",
+        "set_id": "OP04",
+        "name": "Colors Trap",
+        "color": "Purple",
+        "rarity": "R",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": 1000,
+        "attributes": [
+            "Baroque Works"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-075",
+        "set_id": "OP04",
+        "name": "Nez-Palm Cannon",
+        "color": "Purple",
+        "rarity": "UC",
+        "cost": 3,
+        "power": null,
+        "card_type": "Event",
+        "counter": 6000,
+        "attributes": [
+            "Baroque Works"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-076",
+        "set_id": "OP04",
+        "name": "Weakness...Is an Unforgivable Sin.",
+        "color": "Purple",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": 1000,
+        "attributes": [
+            "The Seven Warlords of the Sea",
+            "Baroque Works"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-077",
+        "set_id": "OP04",
+        "name": "Ideo",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 2,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Dressrosa"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-078",
+        "set_id": "OP04",
+        "name": "Oimo & Kashii",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 6,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Giant",
+            "World Government"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-079",
+        "set_id": "OP04",
+        "name": "Orlumbus",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Dressrosa",
+            "Yonta Maria Fleet"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-080",
+        "set_id": "OP04",
+        "name": "Gyats",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 1,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Dressrosa"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-081",
+        "set_id": "OP04",
+        "name": "Cavendish",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Dressrosa",
+            "Beautiful Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-082",
+        "set_id": "OP04",
+        "name": "Kyros",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 3,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Dressrosa"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-083",
+        "set_id": "OP04",
+        "name": "Sabo",
+        "color": "Black",
+        "rarity": "SR",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Dressrosa",
+            "Revolutionary Army"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-084",
+        "set_id": "OP04",
+        "name": "Stussy",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "CP0"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-085",
+        "set_id": "OP04",
+        "name": "Suleiman",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Dressrosa"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-086",
+        "set_id": "OP04",
+        "name": "Chinjao",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 5,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Dressrosa",
+            "Happosui Army"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-087",
+        "set_id": "OP04",
+        "name": "Trafalgar Law",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 5,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Dressrosa",
+            "Heart Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-088",
+        "set_id": "OP04",
+        "name": "Hajrudin",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 6,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Giant",
+            "Dressrosa",
+            "New Giant Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-089",
+        "set_id": "OP04",
+        "name": "Bartolomeo",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Dressrosa",
+            "Barto Club"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-090",
+        "set_id": "OP04",
+        "name": "Monkey.D.Luffy",
+        "color": "Black",
+        "rarity": "SR",
+        "cost": 7,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Dressrosa",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-091",
+        "set_id": "OP04",
+        "name": "Leo",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "The Tontattas",
+            "Dressrosa"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-092",
+        "set_id": "OP04",
+        "name": "Rebecca",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 1,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Dressrosa"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-093",
+        "set_id": "OP04",
+        "name": "Gum-Gum King Kong Gun",
+        "color": "Black",
+        "rarity": "UC",
+        "cost": 3,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Dressrosa",
+            "Straw Hat Crew"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-094",
+        "set_id": "OP04",
+        "name": "Trueno Bastardo",
+        "color": "Black",
+        "rarity": "R",
+        "cost": 4,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Dressrosa"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-095",
+        "set_id": "OP04",
+        "name": "Barrier!!",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": 2000,
+        "attributes": [
+            "Dressrosa",
+            "Barto Club"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-096",
+        "set_id": "OP04",
+        "name": "Corrida Coliseum",
+        "color": "Black",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Stage",
+        "counter": null,
+        "attributes": [
+            "Dressrosa"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-097",
+        "set_id": "OP04",
+        "name": "Otama",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 1,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Land of Wano"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-098",
+        "set_id": "OP04",
+        "name": "Toko",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 2,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Land of Wano"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-099",
+        "set_id": "OP04",
+        "name": "Olin",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 7,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Land of Wano",
+            "The Four Emperors",
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-100",
+        "set_id": "OP04",
+        "name": "Capone\"Gang\"Bege",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Firetank Pirates"
+        ],
+        "attack_attribute": "Ranged"
+    },
+    {
+        "card_id": "OP04-101",
+        "set_id": "OP04",
+        "name": "Carmel",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 2,
+        "power": 1000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "The House of Lambs"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-102",
+        "set_id": "OP04",
+        "name": "Kin'emon",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 6,
+        "power": 6000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Land of Wano"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-103",
+        "set_id": "OP04",
+        "name": "Kouzuki Hiyori",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 2,
+        "power": 0,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Land of Wano",
+            "Kouzuki Clan"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-104",
+        "set_id": "OP04",
+        "name": "Sanji",
+        "color": "Yellow",
+        "rarity": "SR",
+        "cost": 4,
+        "power": 5000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "The Vinsmoke Family"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-105",
+        "set_id": "OP04",
+        "name": "Charlotte Amande",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 2000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-106",
+        "set_id": "OP04",
+        "name": "Charlotte Bavarois",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-107",
+        "set_id": "OP04",
+        "name": "Charlotte Perospero",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 6,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-108",
+        "set_id": "OP04",
+        "name": "Charlotte Moscato",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 3,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-109",
+        "set_id": "OP04",
+        "name": "Tonoyasu",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 2,
+        "power": 2000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Land of Wano"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-110",
+        "set_id": "OP04",
+        "name": "Pound",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 3,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Whole Cake Island"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-111",
+        "set_id": "OP04",
+        "name": "Hera",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 5,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates",
+            "Homies"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-112",
+        "set_id": "OP04",
+        "name": "Yamato",
+        "color": "Yellow",
+        "rarity": "SR",
+        "cost": 9,
+        "power": 9000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Land of Wano"
+        ],
+        "attack_attribute": "Strike"
+    },
+    {
+        "card_id": "OP04-113",
+        "set_id": "OP04",
+        "name": "Rabiyan",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 2,
+        "power": 3000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates",
+            "Homies"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-114",
+        "set_id": "OP04",
+        "name": "Randolph",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 5,
+        "power": 7000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Big Mom Pirates",
+            "Homies"
+        ],
+        "attack_attribute": "Slash"
+    },
+    {
+        "card_id": "OP04-115",
+        "set_id": "OP04",
+        "name": "Gun Modoki",
+        "color": "Yellow",
+        "rarity": "C",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "Land of Wano",
+            "Kouzuki Clan"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-116",
+        "set_id": "OP04",
+        "name": "Diable Jambe Joue Shot",
+        "color": "Yellow",
+        "rarity": "UC",
+        "cost": 3,
+        "power": null,
+        "card_type": "Event",
+        "counter": 6000,
+        "attributes": [
+            "The Vinsmoke Family"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-117",
+        "set_id": "OP04",
+        "name": "Heavenly Fire",
+        "color": "Yellow",
+        "rarity": "R",
+        "cost": 1,
+        "power": null,
+        "card_type": "Event",
+        "counter": null,
+        "attributes": [
+            "The Four Emperors",
+            "Big Mom Pirates"
+        ],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-118",
+        "set_id": "OP04",
+        "name": "Nefeltari Vivi",
+        "color": "Red",
+        "rarity": "SEC",
+        "cost": 7,
+        "power": 4000,
+        "card_type": "Character",
+        "counter": 1000,
+        "attributes": [
+            "Alabasta"
+        ],
+        "attack_attribute": "Wisdom"
+    },
+    {
+        "card_id": "OP04-119",
+        "set_id": "OP04",
+        "name": "Donquixote Rosinante",
+        "color": "Green",
+        "rarity": "SEC",
+        "cost": 8,
+        "power": 8000,
+        "card_type": "Character",
+        "counter": null,
+        "attributes": [
+            "Navy",
+            "Donquixote Pirates"
+        ],
+        "attack_attribute": "Special"
+    },
+    {
+        "card_id": "OP04-120",
+        "set_id": "OP04",
+        "name": null,
+        "color": null,
+        "rarity": null,
+        "cost": null,
+        "power": null,
+        "card_type": null,
+        "counter": null,
+        "attributes": [],
+        "attack_attribute": null
+    },
+    {
+        "card_id": "OP04-121",
+        "set_id": "OP04",
+        "name": null,
+        "color": null,
+        "rarity": null,
+        "cost": null,
+        "power": null,
+        "card_type": null,
+        "counter": null,
+        "attributes": [],
+        "attack_attribute": null
+    }
+]

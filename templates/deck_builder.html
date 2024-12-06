@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Build Deck - {{ deck[1] }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">One Piece TCG</a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Card Database</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/decks">Deck Builder</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <h2>Building: {{ deck[1] }}</h2>
+        <h4>Leader: {{ deck[4] }} ({{ deck[5] }})</h4>
+
+        <div class="row">
+            <div class="col-md-8">
+                <h3>Available Cards</h3>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Color</th>
+                            <th>Cost</th>
+                            <th>Power</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for card in available_cards %}
+                        <tr>
+                            <td>{{ card[1] }}</td>
+                            <td>{{ card[2] }}</td>
+                            <td>{{ card[4] }}</td>
+                            <td>{{ card[5] }}</td>
+                            <td>
+                                <form method="POST" action="/deck/{{ deck[0] }}/add_card">
+                                    <input type="hidden" name="card_id" value="{{ card[0] }}">
+                                    <input type="number" name="quantity" value="1" min="1" max="4" style="width: 60px">
+                                    <button type="submit" class="btn btn-sm btn-primary">Add</button>
+                                </form>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="col-md-4">
+                <h3>Current Deck</h3>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Qty</th>
+                            <th>Name</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for card in deck_cards %}
+                        <tr>
+                            <td>{{ card[-1] }}</td>
+                            <td>{{ card[1] }}</td>
+                            <td>
+                                <form method="POST" action="/deck/{{ deck[0] }}/remove_card/{{ card[0] }}">
+                                    <button type="submit" class="btn btn-sm btn-danger">Remove</button>
+                                </form>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                {% set total_cards = namespace(value=0) %}
+                {% for card in deck_cards %}
+                    {% set total_cards.value = total_cards.value + card[-1] %}
+                {% endfor %}
+                <div class="mt-3">
+                    <p>Total Cards: {{ total_cards.value }}/50</p>
+                    <form method="POST" action="/deck/{{ deck[0] }}/save">
+                        <button type="submit" class="btn btn-success" {% if total_cards.value != 50 %}disabled{% endif %}>
+                            Complete Deck
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
